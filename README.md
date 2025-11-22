@@ -121,14 +121,19 @@ Critério 3: Insight Acionável
 
 ### Passo 7: Priorização das Hipóteses Analíticas
 Hipótese 1. Imovéis cuja razão entre area construída e area do terreno por finalidade possuem um valor de transação maior para o uso 'Residencial' do que para 'Industrial' no mesmo distrito.
+![hipotese1](https://github.com/user-attachments/assets/aa8afd0b-aafc-400e-b5cd-87b8b88a896b)
 
 Hipótese 2. A média do valor de transação para imóveis com area construida acima de 200m² é maior do que para os imóveis com área construída menor.
+![hipotese2](https://github.com/user-attachments/assets/1810730a-787f-42bf-894f-bb2329f26461)
 
 Hipótese 3. A soma do valor de transacao (total transacionado) por tipo de financiamento 'Minha Casa Minha Vida' é maior do que as transações dos outros tipos de financiamento.
+![hipotese3](https://github.com/user-attachments/assets/1e80844e-039f-4a1e-b2d8-e6c15251b66d)
 
 Hipótese 4. Qual tipo de imóvel representa o maior valor de transação médio, e quais são os tipos mais frequentes nas transações?
+![hipotese4](https://github.com/user-attachments/assets/c2296ee3-50f2-4fa1-a17e-56ef61b7d09d)
 
 Hipótese 5. O mês de dezembro apresenta um número maior transações em comparação com os demais meses do ano.
+![hipotese5](https://github.com/user-attachments/assets/f1b94e41-0b73-434d-bf3c-4e2b1f2ccb13)
 
 ### Resultados
 
