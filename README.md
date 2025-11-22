@@ -49,7 +49,7 @@ As colunas foram agrupadas em dimensões comuns que fornecem mais detalhes sobre
 
 1. Localização
   - id_iptu: identificador do imóvel no cadastro do IPTU.
-  - cep: 
+  - cep: representa o Código de Endereçamento Postal do imóvel.
   - numero_endereco: numeração do imóvel no seu respectivo logradouro.
   - tipo_logradouro: tipo do logradouro.
   - nome_logradouro: nome do logradouro.
@@ -74,7 +74,7 @@ As colunas foram agrupadas em dimensões comuns que fornecem mais detalhes sobre
   - cod_padrao_IPTU: código relativo ao tipo e padrão da construção.
   - desc_padrao_IPTU: identifica tipo relacionado ao código de padrão da construção.
   - ano_construcao: indica o ano do término da construção.
-  - valor_imovel: 
+  - valor_imovel: valor total do imóvel
 
 4. Transação
   - natureza_transacao: indica o tipo de negócio jurídico por meio do qual o imóvel está sendo transmitido.
