@@ -22,7 +22,7 @@ OBS: este é um cenário fictício
 - Todos os imóveis com status_IPTU cancelado foram removidos por não representar um ativo viável de compra.
 - Todos os imóveis que não apresentaram registros de tipo de financiamento foram 'categorizados' como Não Informados.
 - Foram retirados 10,83% de outliers da base de dados original
-- A análise utilizou de dados sinteticos, mas instrusivos do [Kaggle]()
+- A análise utilizou de dados sinteticos, mas instrusivos do [Kaggle](https://www.kaggle.com/datasets/balkry/2023-so-paulo-real-estate-transactions-data)
 
 ## Estratégia da solução
 O método Fato-Dimensão foi usado para desenvolver a análise de dados da campanha de Marketing.
